@@ -1,7 +1,7 @@
 {
   "name": "clockpicker",
   "description": "A clock-style timepicker for Bootstrap (or jQuery)",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": [
     "dist/jquery-clockpicker.js",
     "dist/jquery-clockpicker.css"
@@ -22,10 +22,10 @@
       "homepage": "http://wangshenwei.com/"
     }
   ],
-  "homepage": "http://weareoutman.github.io/clockpicker/",
+  "homepage": "http://linagora.org/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/weareoutman/clockpicker.git"
+    "url": "git://github.com/linagora/clockpicker.git"
   },
   "dependencies": {
     "jquery" : ">=1.7"

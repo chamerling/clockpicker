@@ -1,16 +1,16 @@
 {
   "name": "clockpicker",
   "description": "A clock-style timepicker for Bootstrap (or jQuery)",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": {
     "name": "Wang Shenwei",
     "email": "wangshenwei@qq.com",
     "url": "http://wangshenwei.com/"
   },
-  "homepage": "http://weareoutman.github.io/clockpicker/",
+  "homepage": "http://linagora.org/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/weareoutman/clockpicker.git"
+    "url": "git://github.com/linagora/clockpicker.git"
   },
   "scripts": {
     "test": "gulp test"
